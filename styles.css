@@ -1,0 +1,28 @@
+
+
+
+p{
+    color:aqua;
+}
+
+
+h1{
+    background-color: hotpink;
+}
+
+a{
+    background-color: mediumaquamarine;
+}
+
+body{
+    background-color: rgb(159, 197, 192);
+}
+
+textarea{
+    border: 0.3cm;
+    position: var(x,y);
+}
+
+#aaa{
+    color: blueviolet;
+}
